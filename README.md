@@ -3,7 +3,6 @@
 Simple and Customizable SwiftUI Confetti Modifier Package That Lets You Add Confetti to Anything!
 
 **Requires Mac Catalyst 15, iOS/iPadOS 15, tvOS 15, or newer. Built for SwiftUI.**
-**Requires macOS 12, iOS/iPadOS 15, tvOS 15, or newer. Built for SwiftUI.**
 
 ![](https://github.com/BertanT/BertanT/blob/main/ReadmeGIFs/SwiftUIConfettiOverlayDemo.gif?raw=true)
 ## 🚀 Usage
