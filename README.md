@@ -3,6 +3,7 @@
 Simple and Customizable SwiftUI Confetti Modifier Package That Lets You Add Confetti to Anything!
 
 **Requires macOS 12, iOS/iPadOS 15, tvOS 15, or newer. Built for SwiftUI.**
+![](https://github.com/BertanT/BertanT/blob/main/ReadmeGIFs/SwiftUIConfettiOverlayDemo.gif?raw=true)
 ## 🚀 Usage
 Add the `.confettiOverlay` modifier to any SwiftUI view you want to add confetti over, and that's it! 
 The below example demonstrates how to add confetti to a View and toggle the emission with a Button. A boolean `State` property controls the emission.
